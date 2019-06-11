@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1089340792740",
+    "firebase_url": "https://chatbot-35e04.firebaseio.com",
+    "project_id": "chatbot-35e04",
+    "storage_bucket": "chatbot-35e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089340792740:android:39cc4b9bb4d3c70a",
+        "android_client_info": {
+          "package_name": "com.example.vuechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089340792740-2uh1uitdh973ktuf8prh2rcai1vgb9t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vuechat",
+            "certificate_hash": "c338caa8e8c3a396008164d6a8c9e0756e4f697a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYh8d7emJAc37Z1m6RAyhftbdnOle-Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089340792740-02olqg45bp9clvpu9tm25ugpsiejj2j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
